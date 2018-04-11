@@ -1,0 +1,22 @@
+Idea 1:
+	Predicting the precipitation in a US city with data gathered from previous years. The data is in a text file which has fixed length records. This can be converted to a CSV file if needed. The precipitation data present is hourly and not recorded for every hour. The precipitation data can be summed up for the day and we can have per day precipitation data. 
+Questions that can be asked - This information can be used to extrapolate and predict the precipitation in US cities for the future years.
+Data set to be used -> ftp://ftp.ncdc.noaa.gov/pub/data/hourly_precip-3240/
+
+Idea 2:
+	LEGO is a popular brand of toy building bricks. They are often sold in sets with in order to build a specific object. Each set contains a number of parts in different shapes, sizes and colors. This database contains information on which parts are included in different LEGO sets. It was originally compiled to help people who owned some LEGO sets already figure out what other sets they could build with the pieces they had.
+Questions that can be asked –  
+How have the size of sets changed over time?
+What colors are associated with witch themes? Could you predict which theme a set is from just by the bricks it contains?
+What sets have the most-used pieces in them? What sets have the rarest pieces in them?
+Have the colors of LEGOs included in sets changed over time?
+Data set to be used -> https://www.kaggle.com/rtatman/lego-database
+
+Idea 3:
+	YouTube (the world-famous video sharing website) maintains a list of the top trending videos on the platform. According to Variety magazine, “To determine the year’s top-trending videos, YouTube uses a combination of factors including measuring users interactions (number of views, shares, comments and likes). Note that they’re not the most-viewed videos overall for the calendar year”. 
+Questions/inferences- 
+1. Sentiment analysis in a variety of forms
+2. Analysing what factors affect how popular a YouTube video will be.
+3. Statistical analysis over time
+Data set to be used -> https://www.kaggle.com/datasnaek/youtube-new
+
